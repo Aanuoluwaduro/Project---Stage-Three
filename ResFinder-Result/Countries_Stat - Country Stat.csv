@@ -1,0 +1,9 @@
+Antimicrobial Class,Beta-lactam,,Tetracycline,Aminoglycoside,,
+Antibiotics,Cefoxitin,Penicilin,Tetracycline,Amikacin,Tobramycin,Gentamicin
+ARG,mecA (65),blaZ (63),tetA/K/L/M (37),"aadD/aac(6')-aph(2"") /aph(3"")-III (21)","aadD/aac(6')-aph(2"") /aph(3"")-III (12)","aac(6')-aph(2"") (15)"
+,,,,,,
+Argentina ,17,11,1,1,1,6
+Canada ,18,8,0,7,0,0
+China ,20,20,15,10,10,8
+Nigeria ,10,16,10,3,1,1
+Russia ,0,8,11,0,0,0
