@@ -1,4 +1,3 @@
-**Project---Stage-Three**
 **Identification of Antimicrobial Resistance Genes - A technical report submitted to HackBio in partial fulfillment of the Genomics workshop completion requirement** 
 
 **By Aanuoluwa Adekoya - Team Crick/Project1**
